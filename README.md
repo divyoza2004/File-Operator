@@ -58,6 +58,12 @@ Design and develop a Python program that allows users to maintain a personal jou
 - Entries must include a timestamp and user input.
 - Display clear error messages and guidance for invalid actions.
 
+## ▶ Demo Video
+
+<a href="https://drive.google.com/file/d/1qXj0XwXhMrAhzs6iRmYEFLChqDCnXhsq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
+
 ## Output of Code
 <img width="1150" height="710" alt="image" src="https://github.com/user-attachments/assets/2dbce019-ed9a-4f17-b7c2-2f4acf38ea09" />
 <img width="857" height="690" alt="image" src="https://github.com/user-attachments/assets/6e619f4c-c4e9-43c1-9fe1-7bca9834b648" />
