@@ -59,6 +59,9 @@ Design and develop a Python program that allows users to maintain a personal jou
 - Display clear error messages and guidance for invalid actions.
 
 ## Output of Code
+<img width="1150" height="710" alt="image" src="https://github.com/user-attachments/assets/2dbce019-ed9a-4f17-b7c2-2f4acf38ea09" />
+<img width="857" height="690" alt="image" src="https://github.com/user-attachments/assets/6e619f4c-c4e9-43c1-9fe1-7bca9834b648" />
+
 
 ## Conclusion
 
