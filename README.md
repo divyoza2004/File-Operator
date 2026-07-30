@@ -60,7 +60,7 @@ Design and develop a Python program that allows users to maintain a personal jou
 
 ## ▶ Demo Video
 
-<a href="https://drive.google.com/file/d/1qXj0XwXhMrAhzs6iRmYEFLChqDCnXhsq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1eXo-U_dYl1SX5KKZ7ATmyYQXQrp_Lxnh/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
 </a>
 
